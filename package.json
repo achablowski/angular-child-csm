@@ -10,7 +10,7 @@
   },
   "private": true,
   "dependencies": {
-    "angular-main-csm": "https://github.com/achablowski/angular-main-csm.git"
+    "angular-main-csm": "https://github.com/achablowski/angular-main-csm.git#feature/test"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^18.2.3",
